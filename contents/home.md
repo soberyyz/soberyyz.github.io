@@ -1,11 +1,11 @@
 
 
-[![soberyyz](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/soberyyz)
+[![soberyyz](https://img.shields.io/badge/soberyyz-github-blue?logo=github)](https://github.com/soberyyz)
 
 He is currently pursuing a Master's Degree in Computer Science, at Southern University of Science and Technology, China.
 
 #### Email
-soberyyz[at]163.com
+soberyyz@163.com
 
 #### Education
 M.E., Electronic Information, Southern University of Science and Technology, 2025—2028 (expected).\
